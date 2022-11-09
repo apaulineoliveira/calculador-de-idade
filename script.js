@@ -16,5 +16,29 @@ function calculaIdade(anos) {
      nome: "Humberto",
      idade: 27
   };
+
+  const pessoa4 = {
+   nome: "Robert",
+   idade: 10
+};
+
+const pessoa5 = {
+   nome: "Pablo",
+   idade: 17
+};
+
+const pessoa6 = {
+   nome: "Mônica",
+   idade: 19
+};
+
+const pessoa7 = {
+   nome: "Lúcia",
+   idade: 23
+};
+
+
+
+
   
   console.log(calculaIdade.call(pessoa2, 30));
