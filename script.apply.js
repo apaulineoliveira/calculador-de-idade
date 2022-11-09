@@ -38,4 +38,5 @@ const pessoa7 = {
 };
 
 
+
 console.log(calculaIdade.apply(pessoa7, [4]));
